@@ -6,4 +6,7 @@
   html {
     font-family: 'Rubik', sans-serif;
   }
+  html, body {
+    @apply overflow-x-hidden;
+  }
 }
