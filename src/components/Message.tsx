@@ -12,8 +12,6 @@ export default function Message({ children, type, href, ...props }: MessageProps
     props.className,
     "max-w-[128px] rounded-t-[10px] text-[8px] leading-[11px] px-[8px] py-[6px]",
   )
-
-  let Component = href ? "img" : "p"
   
   return (
     <div className={className} {...props}>
