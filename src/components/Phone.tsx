@@ -18,7 +18,7 @@ export default function Phone({ children }: PhoneProps) {
                 </button>
               </div>
               <div className="w-6 h-6 rounded-full border border-white box-border overflow-hidden">
-                <img src="/images/avatar.jpg" alt="Avatar for Samuel Green" />
+                <img src="images/avatar.jpg" alt="Avatar for Samuel Green" />
               </div>
               <div className="flex flex-col gap-y-[2px]">
                 <h2 className="text-white text-[11px] font-medium">Samuel Green</h2>

@@ -21,15 +21,15 @@ function App() {
             </Message>
             <div className="self-end flex gap-x-2">
               <Image 
-                src="/images/dog-image-1.jpg"
+                src="images/dog-image-1.jpg"
                 alt=""
               />
               <Image 
-                src="/images/dog-image-2.jpg"
+                src="images/dog-image-2.jpg"
                 alt=""
               />
               <Image 
-                src="/images/dog-image-3.jpg"
+                src="images/dog-image-3.jpg"
                 alt=""
               />
             </div>
